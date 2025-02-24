@@ -1,5 +1,5 @@
 import scrape from 'website-scraper';
-const websiteUrl = 'https://bahrul-rozak.vercel.app/';
+const websiteUrl = 'https://url-to-code.vercel.app/';
 
 scrape({
     urls: [websiteUrl],
